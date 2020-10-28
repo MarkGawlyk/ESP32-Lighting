@@ -3,7 +3,7 @@
 #include <BlynkSimpleEsp32.h>
 #include <FastLED.h>
 
-char auth[] = "QhAo_OlGEAEiRgyTfFAY0AAmCbfWJcJg"; //Unique Blynk Application Code
+char auth[] = "****"; //Unique Blynk Application Code
 char ssid[] = "****"; //SSID
 char pass[] = "****"; //WiFi Password
 
